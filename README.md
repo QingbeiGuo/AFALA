@@ -2,6 +2,7 @@ A Localization Method Avoiding Flip Ambiguities for micro-UAVs with Bounded Dist
 ====
 
 Journal: IEEE Transactions on Mobile Computing
+
 @article{GuoZLKS18,
   title={A Localization Method Avoiding Flip Ambiguities for micro-UAVs with Bounded Distance Measurement Errors},
   author={Guo, Qingbei and Zhang, Yuan and Lloret, Jaime and Kantarci, Burak and Seah, Winston KG},
