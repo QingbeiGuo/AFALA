@@ -14,7 +14,9 @@ Journal: IEEE Transactions on Mobile Computing
 Q. Guo, Y. Zhang, J. Lloret, B. Kantarci, and W. K. Seah, “A localization method avoiding flip ambiguities for micro-uavs with bounded distance measurement errors,” IEEE Transactions on Mobile Computing, vol. 18, pp. 1718–1730, 2019.
 
 论文 paper：https://arxiv.org/abs/1807.09590
+
 源码 code：Github: https://github.com/QingbeiGuo/AFALA.git.
+
 博客 blogs：https://blog.csdn.net/guoqwer/article/details/95322929
 
 Abstract—Localization is a fundamental function in cooperative control of micro unmanned aerial vehicles (UAVs), but is easily affected by flip ambiguities because of measurement errors and flying motions. This study proposes a localization method that can avoid the occurrence of flip ambiguities in bounded distance measurement errors and constrained flying
