@@ -12,6 +12,7 @@ Journal: IEEE Transactions on Mobile Computing
   publisher={IEEE}
   doi={10.1109/TMC.2018.2865462},
 }
+
 Q. Guo, Y. Zhang, J. Lloret, B. Kantarci, and W. K. Seah, “A localization method avoiding flip ambiguities for micro-uavs with bounded distance measurement errors,” IEEE Transactions on Mobile Computing, vol. 18, pp. 1718–1730, 2019.
 
 论文 paper：https://arxiv.org/abs/1807.09590
