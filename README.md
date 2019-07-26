@@ -1,4 +1,4 @@
-A Localization Method Avoiding Flip Ambiguities for micro-UAVs with Bounded Distance Measurement Errors（论文博客）
+A Localization Method Avoiding Flip Ambiguities for micro-UAVs with Bounded Distance Measurement Errors
 
 Journal: IEEE Transactions on Mobile Computing
 @article{GuoZLKS18,
@@ -13,8 +13,9 @@ Journal: IEEE Transactions on Mobile Computing
 }
 Q. Guo, Y. Zhang, J. Lloret, B. Kantarci, and W. K. Seah, “A localization method avoiding flip ambiguities for micro-uavs with bounded distance measurement errors,” IEEE Transactions on Mobile Computing, vol. 18, pp. 1718–1730, 2019.
 
-论文：https://arxiv.org/abs/1807.09590
-源码：Github: https://github.com/QingbeiGuo/AFALA.git.
+论文 paper：https://arxiv.org/abs/1807.09590
+源码 code：Github: https://github.com/QingbeiGuo/AFALA.git.
+博客 blogs：https://blog.csdn.net/guoqwer/article/details/95322929
 
 Abstract—Localization is a fundamental function in cooperative control of micro unmanned aerial vehicles (UAVs), but is easily affected by flip ambiguities because of measurement errors and flying motions. This study proposes a localization method that can avoid the occurrence of flip ambiguities in bounded distance measurement errors and constrained flying
 motions; to demonstrate its efficacy, the method is implemented on bilateration and trilateration. For bilateration, an improved bi-boundary model based on the unit disk graph model is created to compensate for the shortage of distance constraints, and two boundaries are estimated as the communication range constraint. The characteristic of the intersections of the communication range and distance constraints is studied to present a unique localization criterion which can avoid the occurrence of flip ambiguities. Similarly, for trilateration, another unique localization criterion for avoiding flip ambiguities is proposed according to the characteristic of the intersections of three distance constraints. The theoretical proof shows that these proposed criteria are correct. A localization algorithm is constructed based on these two criteria. The algorithm is validated using simulations for different scenarios and parameters, and the proposed method is shown to provide excellent localization performance in terms of average estimated error. 
