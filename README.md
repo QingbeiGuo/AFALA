@@ -1,4 +1,4 @@
-A Localization Method Avoiding Flip Ambiguities for micro-UAVs with Bounded Distance Measurement Errors
+A Localization Method Avoiding Flip Ambiguities for micro-UAVs with Bounded Distance Measurement Errors, IEEE TMC, 2019
 ======
 Journal: IEEE Transactions on Mobile Computing
 
